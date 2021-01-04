@@ -1,3 +1,15 @@
-# My Resolution
+My Resolution
 
-- asw
+- Advanced JavaScript (Async, Await, Promise, etc) ❌
+- Nodejs ❌
+- Expressjs ❌
+- Websocket ❌
+- Vuejs ❌
+- Webrtc ❌
+- TypeScript ❌
+- Advanced git ❌
+- Docker ❌
+- Kubernetes ❌
+- Mongodb ❌
+- Redis ❌
+- Golang ❌
