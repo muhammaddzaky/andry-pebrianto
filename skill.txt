@@ -1,19 +1,19 @@
-# My Skill
+My Skill
 
-## Programming Language
+Programming Language:
 - PHP
 - JavaScript
 
-## Framework
+Framework:
 - CodeIgniter 4
 - Bootstrap
 
-## Library
+Library:
 - SweetAlert
 - Dropify
 - TCPDF
 - PhpSpreadsheet
 - jQuery
 
-## Other
+Other:
 - REST API
