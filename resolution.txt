@@ -5,6 +5,9 @@ My Resolution
 - Expressjs ❌
 - Websocket ❌
 - Vuejs ❌
+- CSS Grid ❌
+- SASS ❌
+- Tailwind CSS ❌
 - Webrtc ❌
 - TypeScript ❌
 - Advanced git ❌
