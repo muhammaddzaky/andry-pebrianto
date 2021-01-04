@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**andry-pebrianto/andry-pebrianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋, I'm Andry Pebrianto
 
 Here are some ideas to get you started:
 
