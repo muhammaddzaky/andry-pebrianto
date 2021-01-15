@@ -1,10 +1,12 @@
 My Resolution
 
+- Regular Expression ✔️
 - Advanced JavaScript (Async, Await, Promise, etc) ❌
-- Nodejs ❌
-- Expressjs ❌
+- Node.js ❌
+- Express.js ❌
+- React.js ❌
+- React Native ❌
 - Websocket ❌
-- Vuejs ❌
 - CSS Grid ❌
 - SASS ❌
 - Tailwind CSS ❌
