@@ -1,3 +1,4 @@
+![0](https://user-images.githubusercontent.com/58392246/128858940-3391e0fe-da84-4d0d-a00c-ac86d595e307.gif)
 Mempelajarin tentang web dari Git Maupun Dari Visual [README (1).md](https://github.com/muhammaddzaky/andry-pebrianto/files/6841258/README.1.md)
 [README.md](https://github.com/muhammaddzaky/andry-pebrianto/files/6841259/README.md)<html lang = "en">
 <head><meta charset="euc-kr">
